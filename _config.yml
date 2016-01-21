@@ -1,0 +1,28 @@
+name: Cool Al
+favicon: null
+layout_spectrum: 0.5943164099007845
+typography_spectrum: 0.16846489859744906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.381043704925105
+  lightness: 0.8362259548157454
+  saturation: 0.21100591449066997
+  rhythmicContrast: 0.8093897141516209
+purpose: []
